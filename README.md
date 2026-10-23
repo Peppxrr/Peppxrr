@@ -4,7 +4,7 @@ I mostly make software because I want something that doesn't exist yet, or becau
 
 I wouldn't call myself much of a developer. Usually I come up with an idea, beat an LLM over the head with it until it does what I want, and then spend way too long figuring out why something doesn't work. I've learned a fair bit along the way, but I'm still figuring a lot of things out.
 
-I like open-source software and Linux, and I'm trying to make my projects work on both Windows and Linux where possible. Linux support can be a pain, especially on Wayland, but I'd like there to be fewer reasons for people to feel stuck on Windows.
+I like open-source software and Linux, and I'm trying to make my projects work on both Windows and Linux where possible. Linux support can be a pain but I'd like there to be fewer reasons for people to feel stuck on Windows.
 
 ## Projects
 
@@ -34,6 +34,6 @@ There's a release available if you want to try it. Don't read too much into the 
 
 ## Other stuff
 
-I also mess around with VR eye and face tracking, ESP32s, Linux audio, self-hosting, and whatever other hardware or software project I get interested in. Not everything ends up in a public repository.
+I also mess around with VR eye and mouth tracking, self-hosting, and whatever other hardware or software project I get interested in. Not everything ends up in a public repository.
 
 Most of what I put here is still a work in progress, so bug reports and suggestions are always welcome.
